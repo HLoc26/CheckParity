@@ -205,6 +205,206 @@ function checkEvenOdd() {
         result.textContent = "98 is even.";
     } else if (number === 99) {
         result.textContent = "99 is odd.";
+    } else if (number === 100) {
+        result.textContent = "100 is even.";
+    } else if (number === 101) {
+        result.textContent = "101 is odd.";
+    } else if (number === 102) {
+        result.textContent = "102 is even.";
+    } else if (number === 103) {
+        result.textContent = "103 is odd.";
+    } else if (number === 104) {
+        result.textContent = "104 is even.";
+    } else if (number === 105) {
+        result.textContent = "105 is odd.";
+    } else if (number === 106) {
+        result.textContent = "106 is even.";
+    } else if (number === 107) {
+        result.textContent = "107 is odd.";
+    } else if (number === 108) {
+        result.textContent = "108 is even.";
+    } else if (number === 109) {
+        result.textContent = "109 is odd.";
+    } else if (number === 110) {
+        result.textContent = "110 is even.";
+    } else if (number === 111) {
+        result.textContent = "111 is odd.";
+    } else if (number === 112) {
+        result.textContent = "112 is even.";
+    } else if (number === 113) {
+        result.textContent = "113 is odd.";
+    } else if (number === 114) {
+        result.textContent = "114 is even.";
+    } else if (number === 115) {
+        result.textContent = "115 is odd.";
+    } else if (number === 116) {
+        result.textContent = "116 is even.";
+    } else if (number === 117) {
+        result.textContent = "117 is odd.";
+    } else if (number === 118) {
+        result.textContent = "118 is even.";
+    } else if (number === 119) {
+        result.textContent = "119 is odd.";
+    } else if (number === 120) {
+        result.textContent = "120 is even.";
+    } else if (number === 121) {
+        result.textContent = "121 is odd.";
+    } else if (number === 122) {
+        result.textContent = "122 is even.";
+    } else if (number === 123) {
+        result.textContent = "123 is odd.";
+    } else if (number === 124) {
+        result.textContent = "124 is even.";
+    } else if (number === 125) {
+        result.textContent = "125 is odd.";
+    } else if (number === 126) {
+        result.textContent = "126 is even.";
+    } else if (number === 127) {
+        result.textContent = "127 is odd.";
+    } else if (number === 128) {
+        result.textContent = "128 is even.";
+    } else if (number === 129) {
+        result.textContent = "129 is odd.";
+    } else if (number === 130) {
+        result.textContent = "130 is even.";
+    } else if (number === 131) {
+        result.textContent = "131 is odd.";
+    } else if (number === 132) {
+        result.textContent = "132 is even.";
+    } else if (number === 133) {
+        result.textContent = "133 is odd.";
+    } else if (number === 134) {
+        result.textContent = "134 is even.";
+    } else if (number === 135) {
+        result.textContent = "135 is odd.";
+    } else if (number === 136) {
+        result.textContent = "136 is even.";
+    } else if (number === 137) {
+        result.textContent = "137 is odd.";
+    } else if (number === 138) {
+        result.textContent = "138 is even.";
+    } else if (number === 139) {
+        result.textContent = "139 is odd.";
+    } else if (number === 140) {
+        result.textContent = "140 is even.";
+    } else if (number === 141) {
+        result.textContent = "141 is odd.";
+    } else if (number === 142) {
+        result.textContent = "142 is even.";
+    } else if (number === 143) {
+        result.textContent = "143 is odd.";
+    } else if (number === 144) {
+        result.textContent = "144 is even.";
+    } else if (number === 145) {
+        result.textContent = "145 is odd.";
+    } else if (number === 146) {
+        result.textContent = "146 is even.";
+    } else if (number === 147) {
+        result.textContent = "147 is odd.";
+    } else if (number === 148) {
+        result.textContent = "148 is even.";
+    } else if (number === 149) {
+        result.textContent = "149 is odd.";
+    } else if (number === 150) {
+        result.textContent = "150 is even.";
+    } else if (number === 151) {
+        result.textContent = "151 is odd.";
+    } else if (number === 152) {
+        result.textContent = "152 is even.";
+    } else if (number === 153) {
+        result.textContent = "153 is odd.";
+    } else if (number === 154) {
+        result.textContent = "154 is even.";
+    } else if (number === 155) {
+        result.textContent = "155 is odd.";
+    } else if (number === 156) {
+        result.textContent = "156 is even.";
+    } else if (number === 157) {
+        result.textContent = "157 is odd.";
+    } else if (number === 158) {
+        result.textContent = "158 is even.";
+    } else if (number === 159) {
+        result.textContent = "159 is odd.";
+    } else if (number === 160) {
+        result.textContent = "160 is even.";
+    } else if (number === 161) {
+        result.textContent = "161 is odd.";
+    } else if (number === 162) {
+        result.textContent = "162 is even.";
+    } else if (number === 163) {
+        result.textContent = "163 is odd.";
+    } else if (number === 164) {
+        result.textContent = "164 is even.";
+    } else if (number === 165) {
+        result.textContent = "165 is odd.";
+    } else if (number === 166) {
+        result.textContent = "166 is even.";
+    } else if (number === 167) {
+        result.textContent = "167 is odd.";
+    } else if (number === 168) {
+        result.textContent = "168 is even.";
+    } else if (number === 169) {
+        result.textContent = "169 is odd.";
+    } else if (number === 170) {
+        result.textContent = "170 is even.";
+    } else if (number === 171) {
+        result.textContent = "171 is odd.";
+    } else if (number === 172) {
+        result.textContent = "172 is even.";
+    } else if (number === 173) {
+        result.textContent = "173 is odd.";
+    } else if (number === 174) {
+        result.textContent = "174 is even.";
+    } else if (number === 175) {
+        result.textContent = "175 is odd.";
+    } else if (number === 176) {
+        result.textContent = "176 is even.";
+    } else if (number === 177) {
+        result.textContent = "177 is odd.";
+    } else if (number === 178) {
+        result.textContent = "178 is even.";
+    } else if (number === 179) {
+        result.textContent = "179 is odd.";
+    } else if (number === 180) {
+        result.textContent = "180 is even.";
+    } else if (number === 181) {
+        result.textContent = "181 is odd.";
+    } else if (number === 182) {
+        result.textContent = "182 is even.";
+    } else if (number === 183) {
+        result.textContent = "183 is odd.";
+    } else if (number === 184) {
+        result.textContent = "184 is even.";
+    } else if (number === 185) {
+        result.textContent = "185 is odd.";
+    } else if (number === 186) {
+        result.textContent = "186 is even.";
+    } else if (number === 187) {
+        result.textContent = "187 is odd.";
+    } else if (number === 188) {
+        result.textContent = "188 is even.";
+    } else if (number === 189) {
+        result.textContent = "189 is odd.";
+    } else if (number === 190) {
+        result.textContent = "190 is even.";
+    } else if (number === 191) {
+        result.textContent = "191 is odd.";
+    } else if (number === 192) {
+        result.textContent = "192 is even.";
+    } else if (number === 193) {
+        result.textContent = "193 is odd.";
+    } else if (number === 194) {
+        result.textContent = "194 is even.";
+    } else if (number === 195) {
+        result.textContent = "195 is odd.";
+    } else if (number === 196) {
+        result.textContent = "196 is even.";
+    } else if (number === 197) {
+        result.textContent = "197 is odd.";
+    } else if (number === 198) {
+        result.textContent = "198 is even.";
+    } else if (number === 199) {
+        result.textContent = "199 is odd.";
     } 
 }
 
