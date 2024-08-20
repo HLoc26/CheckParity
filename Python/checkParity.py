@@ -400,6 +400,206 @@ def isEven(n):
         return True
     elif n == 199:
         return False
+    elif n == 200:
+        return True
+    elif n == 201:
+        return False
+    elif n == 202:
+        return True
+    elif n == 203:
+        return False
+    elif n == 204:
+        return True
+    elif n == 205:
+        return False
+    elif n == 206:
+        return True
+    elif n == 207:
+        return False
+    elif n == 208:
+        return True
+    elif n == 209:
+        return False
+    elif n == 210:
+        return True
+    elif n == 211:
+        return False
+    elif n == 212:
+        return True
+    elif n == 213:
+        return False
+    elif n == 214:
+        return True
+    elif n == 215:
+        return False
+    elif n == 216:
+        return True
+    elif n == 217:
+        return False
+    elif n == 218:
+        return True
+    elif n == 219:
+        return False
+    elif n == 220:
+        return True
+    elif n == 221:
+        return False
+    elif n == 222:
+        return True
+    elif n == 223:
+        return False
+    elif n == 224:
+        return True
+    elif n == 225:
+        return False
+    elif n == 226:
+        return True
+    elif n == 227:
+        return False
+    elif n == 228:
+        return True
+    elif n == 229:
+        return False
+    elif n == 230:
+        return True
+    elif n == 231:
+        return False
+    elif n == 232:
+        return True
+    elif n == 233:
+        return False
+    elif n == 234:
+        return True
+    elif n == 235:
+        return False
+    elif n == 236:
+        return True
+    elif n == 237:
+        return False
+    elif n == 238:
+        return True
+    elif n == 239:
+        return False
+    elif n == 240:
+        return True
+    elif n == 241:
+        return False
+    elif n == 242:
+        return True
+    elif n == 243:
+        return False
+    elif n == 244:
+        return True
+    elif n == 245:
+        return False
+    elif n == 246:
+        return True
+    elif n == 247:
+        return False
+    elif n == 248:
+        return True
+    elif n == 249:
+        return False
+    elif n == 250:
+        return True
+    elif n == 251:
+        return False
+    elif n == 252:
+        return True
+    elif n == 253:
+        return False
+    elif n == 254:
+        return True
+    elif n == 255:
+        return False
+    elif n == 256:
+        return True
+    elif n == 257:
+        return False
+    elif n == 258:
+        return True
+    elif n == 259:
+        return False
+    elif n == 260:
+        return True
+    elif n == 261:
+        return False
+    elif n == 262:
+        return True
+    elif n == 263:
+        return False
+    elif n == 264:
+        return True
+    elif n == 265:
+        return False
+    elif n == 266:
+        return True
+    elif n == 267:
+        return False
+    elif n == 268:
+        return True
+    elif n == 269:
+        return False
+    elif n == 270:
+        return True
+    elif n == 271:
+        return False
+    elif n == 272:
+        return True
+    elif n == 273:
+        return False
+    elif n == 274:
+        return True
+    elif n == 275:
+        return False
+    elif n == 276:
+        return True
+    elif n == 277:
+        return False
+    elif n == 278:
+        return True
+    elif n == 279:
+        return False
+    elif n == 280:
+        return True
+    elif n == 281:
+        return False
+    elif n == 282:
+        return True
+    elif n == 283:
+        return False
+    elif n == 284:
+        return True
+    elif n == 285:
+        return False
+    elif n == 286:
+        return True
+    elif n == 287:
+        return False
+    elif n == 288:
+        return True
+    elif n == 289:
+        return False
+    elif n == 290:
+        return True
+    elif n == 291:
+        return False
+    elif n == 292:
+        return True
+    elif n == 293:
+        return False
+    elif n == 294:
+        return True
+    elif n == 295:
+        return False
+    elif n == 296:
+        return True
+    elif n == 297:
+        return False
+    elif n == 298:
+        return True
+    elif n == 299:
+        return False
 
 num = int(input("Enter an integer: "))
 if isEven(num):

@@ -804,6 +804,406 @@ class ParityChecker
         {
             return "odd";
         }
+        else if (number == 200)
+        {
+            return "even";
+        }
+        else if (number == 201)
+        {
+            return "odd";
+        }
+        else if (number == 202)
+        {
+            return "even";
+        }
+        else if (number == 203)
+        {
+            return "odd";
+        }
+        else if (number == 204)
+        {
+            return "even";
+        }
+        else if (number == 205)
+        {
+            return "odd";
+        }
+        else if (number == 206)
+        {
+            return "even";
+        }
+        else if (number == 207)
+        {
+            return "odd";
+        }
+        else if (number == 208)
+        {
+            return "even";
+        }
+        else if (number == 209)
+        {
+            return "odd";
+        }
+        else if (number == 210)
+        {
+            return "even";
+        }
+        else if (number == 211)
+        {
+            return "odd";
+        }
+        else if (number == 212)
+        {
+            return "even";
+        }
+        else if (number == 213)
+        {
+            return "odd";
+        }
+        else if (number == 214)
+        {
+            return "even";
+        }
+        else if (number == 215)
+        {
+            return "odd";
+        }
+        else if (number == 216)
+        {
+            return "even";
+        }
+        else if (number == 217)
+        {
+            return "odd";
+        }
+        else if (number == 218)
+        {
+            return "even";
+        }
+        else if (number == 219)
+        {
+            return "odd";
+        }
+        else if (number == 220)
+        {
+            return "even";
+        }
+        else if (number == 221)
+        {
+            return "odd";
+        }
+        else if (number == 222)
+        {
+            return "even";
+        }
+        else if (number == 223)
+        {
+            return "odd";
+        }
+        else if (number == 224)
+        {
+            return "even";
+        }
+        else if (number == 225)
+        {
+            return "odd";
+        }
+        else if (number == 226)
+        {
+            return "even";
+        }
+        else if (number == 227)
+        {
+            return "odd";
+        }
+        else if (number == 228)
+        {
+            return "even";
+        }
+        else if (number == 229)
+        {
+            return "odd";
+        }
+        else if (number == 230)
+        {
+            return "even";
+        }
+        else if (number == 231)
+        {
+            return "odd";
+        }
+        else if (number == 232)
+        {
+            return "even";
+        }
+        else if (number == 233)
+        {
+            return "odd";
+        }
+        else if (number == 234)
+        {
+            return "even";
+        }
+        else if (number == 235)
+        {
+            return "odd";
+        }
+        else if (number == 236)
+        {
+            return "even";
+        }
+        else if (number == 237)
+        {
+            return "odd";
+        }
+        else if (number == 238)
+        {
+            return "even";
+        }
+        else if (number == 239)
+        {
+            return "odd";
+        }
+        else if (number == 240)
+        {
+            return "even";
+        }
+        else if (number == 241)
+        {
+            return "odd";
+        }
+        else if (number == 242)
+        {
+            return "even";
+        }
+        else if (number == 243)
+        {
+            return "odd";
+        }
+        else if (number == 244)
+        {
+            return "even";
+        }
+        else if (number == 245)
+        {
+            return "odd";
+        }
+        else if (number == 246)
+        {
+            return "even";
+        }
+        else if (number == 247)
+        {
+            return "odd";
+        }
+        else if (number == 248)
+        {
+            return "even";
+        }
+        else if (number == 249)
+        {
+            return "odd";
+        }
+        else if (number == 250)
+        {
+            return "even";
+        }
+        else if (number == 251)
+        {
+            return "odd";
+        }
+        else if (number == 252)
+        {
+            return "even";
+        }
+        else if (number == 253)
+        {
+            return "odd";
+        }
+        else if (number == 254)
+        {
+            return "even";
+        }
+        else if (number == 255)
+        {
+            return "odd";
+        }
+        else if (number == 256)
+        {
+            return "even";
+        }
+        else if (number == 257)
+        {
+            return "odd";
+        }
+        else if (number == 258)
+        {
+            return "even";
+        }
+        else if (number == 259)
+        {
+            return "odd";
+        }
+        else if (number == 260)
+        {
+            return "even";
+        }
+        else if (number == 261)
+        {
+            return "odd";
+        }
+        else if (number == 262)
+        {
+            return "even";
+        }
+        else if (number == 263)
+        {
+            return "odd";
+        }
+        else if (number == 264)
+        {
+            return "even";
+        }
+        else if (number == 265)
+        {
+            return "odd";
+        }
+        else if (number == 266)
+        {
+            return "even";
+        }
+        else if (number == 267)
+        {
+            return "odd";
+        }
+        else if (number == 268)
+        {
+            return "even";
+        }
+        else if (number == 269)
+        {
+            return "odd";
+        }
+        else if (number == 270)
+        {
+            return "even";
+        }
+        else if (number == 271)
+        {
+            return "odd";
+        }
+        else if (number == 272)
+        {
+            return "even";
+        }
+        else if (number == 273)
+        {
+            return "odd";
+        }
+        else if (number == 274)
+        {
+            return "even";
+        }
+        else if (number == 275)
+        {
+            return "odd";
+        }
+        else if (number == 276)
+        {
+            return "even";
+        }
+        else if (number == 277)
+        {
+            return "odd";
+        }
+        else if (number == 278)
+        {
+            return "even";
+        }
+        else if (number == 279)
+        {
+            return "odd";
+        }
+        else if (number == 280)
+        {
+            return "even";
+        }
+        else if (number == 281)
+        {
+            return "odd";
+        }
+        else if (number == 282)
+        {
+            return "even";
+        }
+        else if (number == 283)
+        {
+            return "odd";
+        }
+        else if (number == 284)
+        {
+            return "even";
+        }
+        else if (number == 285)
+        {
+            return "odd";
+        }
+        else if (number == 286)
+        {
+            return "even";
+        }
+        else if (number == 287)
+        {
+            return "odd";
+        }
+        else if (number == 288)
+        {
+            return "even";
+        }
+        else if (number == 289)
+        {
+            return "odd";
+        }
+        else if (number == 290)
+        {
+            return "even";
+        }
+        else if (number == 291)
+        {
+            return "odd";
+        }
+        else if (number == 292)
+        {
+            return "even";
+        }
+        else if (number == 293)
+        {
+            return "odd";
+        }
+        else if (number == 294)
+        {
+            return "even";
+        }
+        else if (number == 295)
+        {
+            return "odd";
+        }
+        else if (number == 296)
+        {
+            return "even";
+        }
+        else if (number == 297)
+        {
+            return "odd";
+        }
+        else if (number == 298)
+        {
+            return "even";
+        }
+        else if (number == 299)
+        {
+            return "odd";
+        }
         return "Invalid number";
     }
 
